@@ -1,0 +1,1 @@
+/Users/michelangelo/Documents/Programming/2020-devProjects/08-August/rust101/scatter_plotter/target/debug/scatter_plotter: /Users/michelangelo/Documents/Programming/2020-devProjects/08-August/rust101/scatter_plotter/src/lib.rs build.rs
