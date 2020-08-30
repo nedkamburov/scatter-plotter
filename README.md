@@ -23,6 +23,9 @@ $ docker run -p 3000:3000 --rm -it -v $(pwd):/app secondstate/ssvm-nodejs-starte
 # Build Rust functions
 (docker) $ ssvmup build
 
+# Build NodeJS dependancies
+(docker) $ npm install
+
 # Run the server
 (docker) $ node node/server.js
 ```
